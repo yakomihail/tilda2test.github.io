@@ -1,0 +1,99 @@
+
+.pb-page{
+	background-color: black;
+	padding: 120px 0;
+	font-family: Open Sans;
+	font-style: normal;
+}
+
+.title-block{
+	font-weight: bold;
+	font-size: 35px;
+	line-height: 123.5%;
+	letter-spacing: -0.045em;
+	color: #FFFFFF;
+}
+.title-block p{
+	color: #A5A5A5;
+}
+
+.pb-page h4{
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 136.5%;
+	/* or 30px */
+	letter-spacing: -0.055em;
+	color: #DCDCDC;
+}
+.pb-page .choose{
+	padding-top: 70px;
+}
+.pb-page .choose h4{
+	max-width: 290px;
+	margin: 13px 0 16px 0;
+}
+
+.pb-page a{
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 100%;
+	/* identical to box height, or 14px */
+	text-decoration-line: underline;
+
+	color: #CFA749;
+}
+.bpic{
+	margin-top: 100px;
+}
+.bpic img{
+	width: 100%;
+}
+
+.pb-title{
+	padding: 70px 0;
+	background-color: black;
+}
+.pb-title .desk{
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 123.5%;
+	/* or 17px */
+	letter-spacing: -0.045em;
+
+	color: #DCDCDC;
+}
+.pb-title .coast{
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 123.5%;
+	/* or 17px */
+	letter-spacing: -0.045em;
+
+	color: #FFFFFF;
+}
+.pb-title{
+	background-image: url("https://i.yapx.ru/E497J.png");
+	background-color: black;
+}
+.pb-more{
+	padding: 120px 0;
+}
+.pb-more .title-block, .pb-sutt .title-block{
+	color: #151515;
+}
+
+.pb-sutt button{
+	margin-top: 30px
+}
+
+.pb-sutt{
+	border-top: 1px solid #D1D1D1;
+	padding-top: 30px; 
+	padding-bottom: 100px;
+}
+.pb-more img{
+	max-width: 100%;
+}
+.v-align{
+	margin: auto;
+}
